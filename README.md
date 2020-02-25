@@ -150,7 +150,7 @@ If set to `false`, it will not be possible to remove tags (defaults to `true`)
 
 **`editable`** (experimental) - [**`?boolean`**]
 
-If set to `true`, it will be possible to edit the display value of the tags (defaults to `false`). Drawback, use same values for **`[identifyBy]`** and **`[displayBy]`**
+If set to `true`, it will be possible to edit the display value of the tags (defaults to `false`). Drawback, you will have to use same values for **`[identifyBy]`** and **`[displayBy]`**
 
 
 **`allowDupes`** - [**`?boolean`**]
